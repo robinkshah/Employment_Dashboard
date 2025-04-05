@@ -1,6 +1,5 @@
-
-
-#LINK TO LIVE SERVER:
+#VIDEO LINK: https://youtu.be/-2ZDW0crw88
+#LINK TO DASHBOARD: https://employment-dashboard.onrender.com
 
 import dash
 from dash import dcc, html, Input, Output
