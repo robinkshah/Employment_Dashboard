@@ -1,5 +1,4 @@
 
-!pip install dash pyngrok pandas plotly
 
 #LINK TO LIVE SERVER:
 
