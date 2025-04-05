@@ -90,7 +90,6 @@ employment-dashboard/
 ├── employment_dashboard.py     # Main Dash application
 ├── cleaned_data.csv            # Pre-processed census dataset
 ├── requirements.txt            # Required Python packages
-├── render.yaml (optional)      # Deployment configuration for Render
 └── README.md                   # Project documentation
 ```
 
@@ -101,8 +100,8 @@ employment-dashboard/
 **Robin Shah**  
 Honours Bachelor of Science in Computer Science  
 Wilfrid Laurier University  
-Email: [your-email@example.com]  
-LinkedIn: [your-linkedin-url]
+Email: shah7303@mylaurier.ca 
+LinkedIn: https://www.linkedin.com/in/robin-shah-441a86280/ 
 
 ---
 
