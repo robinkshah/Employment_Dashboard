@@ -95,16 +95,3 @@ employment-dashboard/
 
 ---
 
-## Author
-
-**Robin Shah**  
-Honours Bachelor of Science in Computer Science  
-Wilfrid Laurier University  
-Email: shah7303@mylaurier.ca 
-LinkedIn: https://www.linkedin.com/in/robin-shah-441a86280/ 
-
----
-
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute this software with appropriate attribution.
